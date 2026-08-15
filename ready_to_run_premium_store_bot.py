@@ -33,7 +33,7 @@ from telegram.ext import (
 # CONFIG
 # ============================================================
 
-TOKEN = "PASTE_YOUR_NEW_BOT_TOKEN_HERE"
+TOKEN = "8738576455:AAHWdiqXBAgbhWhLRnRrZyLrfrJLR4WbF94"
 
 ADMIN_ID = 8999416691
 
