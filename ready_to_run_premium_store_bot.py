@@ -29,9 +29,9 @@ from telegram.ext import (
     JobQueue,
 )
 
-TOKEN = os.getenv("BOT_TOKEN", "").strip()
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
-SUPPORT_USERNAME = os.getenv("SUPPORT_USERNAME", "").strip()
+TOKEN = os.getenv("8738576455:AAHWdiqXBAgbhWhLRnRrZyLrfrJLR4WbF94", "").strip()
+ADMIN_ID = int(os.getenv("8999416691", "0"))
+SUPPORT_USERNAME = os.getenv("@VIDEO_GROUP_PURCHASE", "").strip()
 DATA_FILE = Path(os.getenv("DATA_FILE", "store_data.json"))
 
 OFFER_MESSAGE = (
