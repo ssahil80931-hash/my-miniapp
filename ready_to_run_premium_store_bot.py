@@ -31,9 +31,9 @@ from telegram.ext import (
 # CONFIG
 # ============================================================
 
-TOKEN = os.getenv("BOT_TOKEN", "")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
-SUPPORT_USERNAME = os.getenv("SUPPORT_USERNAME", "@YourSupportUsername")
+TOKEN = os.getenv("8738576455:AAHWdiqXBAgbhWhLRnRrZyLrfrJLR4WbF94", "")
+ADMIN_ID = int(os.getenv("8999416691", "0"))
+SUPPORT_USERNAME = os.getenv("SUPPORT_USERNAME", "@VIDEO_GROUP_PURCHASE")
 
 DATA_FILE = Path("store_data.json")
 
