@@ -5,8 +5,8 @@
 #   pip install python-telegram-bot
 #
 # Set environment variables:
-#   BOT_TOKEN="YOUR_NEW_BOT_TOKEN"
-#   ADMIN_ID="YOUR_TELEGRAM_USER_ID"
+#   BOT_TOKEN="8738576455:AAHWdiqXBAgbhWhLRnRrZyLrfrJLR4WbF94"
+#   ADMIN_ID="8738576455"
 #   SUPPORT_USERNAME="@YourSupportUsername"
 #
 # The welcome message is intentionally left EMPTY so you can add your own.
