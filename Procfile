@@ -1,0 +1,1 @@
+worker: python ready_to_run_premium_store_bot.py
